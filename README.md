@@ -1,7 +1,7 @@
 # A Click to buy shop system from my old project
 - Scroll down to the end for the game link
 # History
-- Created on 29/12/2020
+- The game was Created on 29/12/2020
 - Created on my Second Account OwlManGuyThing
 # How To Use
 ## Set Up
