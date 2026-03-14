@@ -57,5 +57,5 @@ script.Parent.ClickDetector.MouseClick:connect(function(player)
 end)
 ```
 
-## Game Linky
+# Game Linky
 https://www.roblox.com/id/games/6156380756/The-Wall-of-Doom
